@@ -8,4 +8,4 @@ npm install
 
 npm run dev
 
-Para utilizar sua função, pesquise pelo nome de usúario do GitHub
+Para utilizar sua função, pesquise pelo nome de usúario do GitHub.
